@@ -1,0 +1,7 @@
+{
+  "name": "devi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

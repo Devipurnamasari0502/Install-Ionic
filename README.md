@@ -1,1 +1,1 @@
-# Install-Ionic
+# ionic
